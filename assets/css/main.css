@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
 
-/*
-	Miniport by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2056,7 +2050,7 @@ input, select, textarea {
 	margin-top: 5px;
 }
 
-#nav2 a:hover {
+#nav a:hover {
     text-decoration: none; /* Underline on hover */
 }
 
@@ -2434,14 +2428,14 @@ input, select, textarea {
 		width: 100%; /* Full width */
 		z-index: 10000; /* Ensure it is above other content */
 		cursor: default; /* Default cursor */
-		height: 3.5em; /* Height of the nav bar */
-		line-height: 3.5em; /* Center text vertically */
+		height: 6.5em; /* Height of the nav bar */
+		line-height: 5.5em; /* Center text vertically */
 		display: flex;
 		justify-content: space-around;
 	}
 
 	body {
-    padding-bottom: 3.5em; /* Space for the nav bar */
+    padding-bottom: 6.5em; /* Space for the nav bar */
 }
 /* Optional: Style for nav links */
 #nav2 ul {
@@ -2458,7 +2452,7 @@ input, select, textarea {
 #nav2 a {
     color: #fff; /* Link color */
     text-decoration: none; /* Remove underline */
-	margin-top: 5px;
+	margin-top: 10px;
 }
 
 #nav2 a:hover {
